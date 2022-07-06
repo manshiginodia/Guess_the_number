@@ -1,0 +1,48 @@
+body{
+    background-image: url("./Images/number-guessing-java-game.jpg");
+    font-family: Cosmic Sans;
+    font-size: 30px;
+}
+
+
+img{
+    width:600px;
+    height: 250px;
+    float: center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+div{
+    background-color: beige;
+    border-radius: 25px;
+    height: 350px;
+    width: 800px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+span{
+    padding: 30px;
+
+}
+input{
+    
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: black;
+}
+button{
+    size: 40px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: black;
+    padding: 5px;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

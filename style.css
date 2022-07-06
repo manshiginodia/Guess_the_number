@@ -27,6 +27,12 @@ div{
   margin-right: auto;
   
 }
+button:disabled,
+button[disabled]{
+    color: black; 
+  background-color:rgb(67, 65, 65);
+  
+}
 span{
     padding: 30px;
 

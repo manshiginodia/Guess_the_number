@@ -14,6 +14,7 @@ function guessNumber()
         if(num === systemGuess)
         {
             document.getElementById('out1').innerText = 'Got the Answer'
+            document.getElementById("button").disabled = true;
         }
         else if(num> systemGuess)
         {

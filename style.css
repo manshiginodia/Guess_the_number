@@ -1,7 +1,8 @@
 body{
-    background-image: url("./Images/number-guessing-java-game.jpg");
+    background-image: url("./Images/images.jpg");
     font-family: Cosmic Sans;
     font-size: 30px;
+    
 }
 
 
@@ -12,6 +13,7 @@ img{
     display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 10px;
   
 }
 
